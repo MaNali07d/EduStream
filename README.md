@@ -10,7 +10,7 @@ Next-Gen AI Powered Learning Platform. Built without external AI APIs — Fully 
 # 🌐 Live Demo
 
 🚀 **Deployment:**  
-`https://educationstream.netlify.app`
+https://educationstream.netlify.app
 
 ---
 
