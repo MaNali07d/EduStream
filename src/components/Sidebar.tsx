@@ -128,7 +128,7 @@ const Sidebar: React.FC = () => {
   return (
     <>
       {/* Mobile menu button */}
-      <button
+      <button 
         onClick={() => setMobileOpen(true)}
         className="lg:hidden fixed top-4 left-4 z-50 p-2 bg-[#1A1A24] border border-gray-700 rounded-lg text-gray-400 hover:text-white"
       >
