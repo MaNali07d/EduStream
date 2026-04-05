@@ -27,7 +27,7 @@ It enables **students, teachers, and admins** to interact within a unified learn
 - automated quiz generation
 - progress analytics
 
-All AI features are **simulated using rule-based backend logic** so the system runs **fully offline without external APIs**, making it perfect for **hackathon demos**.
+All AI features are **simulated using rule-based backend logic** so the system runs **fully offline without external APIs**, 
 
 ---
 
